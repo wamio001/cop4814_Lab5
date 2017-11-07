@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//This change was added in Step 7
+
 namespace GameLibrary
 {
     public class Game
